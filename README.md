@@ -6,7 +6,7 @@
 
 A modern, responsive, and interactive portfolio showcasing my journey in building **production-ready applications**. Built with performance, scalability, and clean design in mind — this portfolio highlights my projects, technical skills, achievements, and passion for software engineering.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-alpha-seven-56p7o1hkjo.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhmrwt01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhmrwt01)
 
@@ -18,7 +18,7 @@ A modern, responsive, and interactive portfolio showcasing my journey in buildin
 
 ## 🌐 Live Demo
 
-🔗 **Portfolio:** [your-portfolio-url.vercel.app](#) &nbsp; _(replace with your deployed link)_
+🔗 **Portfolio:** [Portfolio](https://portfolio-alpha-seven-56p7o1hkjo.vercel.app/)
 
 ---
 
