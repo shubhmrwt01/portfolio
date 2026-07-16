@@ -34,7 +34,7 @@ const NavBar = () => {
 
         <div className="nav-actions">
           <a
-            href="https://drive.google.com/file/d/1fRfJUtkEwB9ha_nrgmZBqawZgpzsg5Z8/view"
+            href="https://drive.google.com/file/d/1SWB1bz77StrIj6sdheAhE1I6Y2z76L-F/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="resume-btn group"
