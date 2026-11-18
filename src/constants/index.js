@@ -333,7 +333,7 @@ const socialImgs = [
   {
     name: "Resume",
     imgPath: "/images/document.svg",
-    url: "https://drive.google.com/file/d/139ebiioz7Z5qNxRLepF1B7enSKafyyyo/view?usp=sharing",
+    url: "https://drive.google.com/file/d/1xhf2g-gjwbW57q0ybvHkLJT60aENZkFt/view?usp=sharing",
   },
 ];
 
